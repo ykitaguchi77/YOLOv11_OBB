@@ -1,0 +1,12 @@
+/dataset
+/runs
+/weights
+/results
+/logs
+/labels
+/images
+/.venv
+yolo11n-obb.pt
+/images
+/labels
+/MOBIUS

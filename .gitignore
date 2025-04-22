@@ -5,8 +5,13 @@
 /logs
 /labels
 /images
+/eyelid_image
 /.venv
 yolo11n-obb.pt
 /images
 /labels
 /MOBIUS
+yolo11n-obb(1).pt
+yolo11n.pt
+yolo11n-obb (1).pt
+models/yolo11n_obb_pupil_Mobius.pt
